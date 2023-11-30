@@ -21,7 +21,7 @@ public class ders2 {
 
 
 
-        switch (n1&n2&select) {
+        switch (select) {
             case 1 :
                 boolean kosul =(1==select) ;
                 System.out.println("toplama : "+(n1+n2) );
